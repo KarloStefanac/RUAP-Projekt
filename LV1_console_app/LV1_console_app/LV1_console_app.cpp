@@ -5,6 +5,6 @@
 
 int main()
 {
-    std::cout << "Pozdrav iz aplikacije od Karlo Štefanac 07402ab64a5fd74e9beef5fe88175a4ab92ebad7\n";
+    std::cout << "Pozdrav iz aplikacije od Karlo Štefanac\n";
 }
 
